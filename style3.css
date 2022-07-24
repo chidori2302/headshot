@@ -1,0 +1,30 @@
+.shot {
+    width: 300px;
+    position: relative;
+    border: 3px solid white;
+    
+}
+.button{
+    position: relative;
+    top: -25px;
+    right: -17px;
+}
+#die {
+    width: 250px;
+    transform: scale(150%);
+    cursor: pointer;
+}
+#die:hover {
+    transform: scale(120%)
+}
+span {
+    
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  
+    font-weight: 600;
+    font-size: 40px;
+    
+}
+.text {
+    margin-top: 50px;
+}
